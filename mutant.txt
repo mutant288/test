@@ -16,6 +16,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/mutant288/test.git
 git push -u origin master
 
+git remote rm origin
+
 =======
 
 Push an existing repository from the command line
